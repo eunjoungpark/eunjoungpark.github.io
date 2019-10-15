@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.179afb01.chunk.css",
+    "main.js": "/static/js/main.b82de34f.chunk.js",
+    "main.js.map": "/static/js/main.b82de34f.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.929988b0.js",
+    "runtime~main.js.map": "/static/js/runtime~main.929988b0.js.map",
+    "static/js/2.f093b8a4.chunk.js": "/static/js/2.f093b8a4.chunk.js",
+    "static/js/2.f093b8a4.chunk.js.map": "/static/js/2.f093b8a4.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.8e7fb1eee0b2d6bd10742587751df599.js": "/precache-manifest.8e7fb1eee0b2d6bd10742587751df599.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.179afb01.chunk.css.map": "/static/css/main.179afb01.chunk.css.map",
+    "static/media/americano.jpg": "/static/media/americano.a3628674.jpg",
+    "static/media/caffe_latte.jpg": "/static/media/caffe_latte.577ff2e4.jpg",
+    "static/media/caffe_mocha.jpg": "/static/media/caffe_mocha.a1768287.jpg",
+    "static/media/cappuccino.jpg": "/static/media/cappuccino.b8e307b9.jpg",
+    "static/media/caramel_macchiato.jpg": "/static/media/caramel_macchiato.a18dba4c.jpg",
+    "static/media/cold_brew.jpg": "/static/media/cold_brew.287f59f0.jpg"
+  }
+}
